@@ -3,7 +3,7 @@ layout: post
 title: MIT Linear Algebra OCW by Prof. Gilbert Strang Lecture 1
 ---
 
-## The Geometry of Linear Equations
+Lecture 1: The Geometry of Linear Equations
 
 The fundamental problem of Linear Algebra is to solve a system of linear equations.
 
